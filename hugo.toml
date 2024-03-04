@@ -5,3 +5,7 @@ theme = 'bridget'
 replacements = "github.com/Sped0n/bridget -> /Users/julian/Documents/Programmieren/GitHub/Hugo-Test/themes/bridget"
 [[module.imports]]
 path = "github.com/Sped0n/bridget"
+
+baseURL = 'https://trudbeth.github.io/Hugo-Test/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
